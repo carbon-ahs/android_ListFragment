@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListFragment</string>
+    <string name="course_image_description">Course Image</string>
+</resources>
